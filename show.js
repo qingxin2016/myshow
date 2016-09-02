@@ -52,10 +52,3 @@
     };
 
 }(jQuery));
-
-$('.btn-warning').myshow();
-$('.btn-info').myshow();
-$('.btn-success').myshow({
-    orignal: '.wwww',
-    target: '.wrapper02'
-});
